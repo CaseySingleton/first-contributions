@@ -347,6 +347,7 @@
 - [wsjan](https://github.com/wsjan)
 - [Mohammad Aziz](https://github.com/iAziz786)
 - [Emerson Carvalho](https://github.com/brecarv)
+- [Casey Singleton] (https://github.com/CaseySingleton)
 Alvin
 Santanu
 - [Mai Nguyen](https://github.com/maidoesthings)
